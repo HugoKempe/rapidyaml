@@ -49,3 +49,10 @@ wheelhouse/
 # amalgamation files
 src/c4/c4core_all.hpp
 src_singleheader/
+bin-int
+bin
+c4core.vcxproj.user
+c4core.vcxproj.filters
+c4core.vcxproj
+rapidyaml.vcxproj.user
+rapidyaml.vcxproj.filters
